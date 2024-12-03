@@ -114,7 +114,3 @@ The length of each of the first six TCP segments is as follows:
 - **5th Length:** 1460 bytes
 - **6th Length:** 1460 bytes
 
-
-## Conclusion
-
-This analysis provides detailed insights into the TCP communication between the client and server (`gaia.cs.umass.edu`) based on the provided trace file. The RTT values, sequence numbers, and segment lengths offer a comprehensive view of how the data transfer takes place in this session.
