@@ -114,4 +114,12 @@ The length of each of the first six TCP segments is as follows:
 - **5th Length:** 1460 bytes
 - **6th Length:** 1460 bytes
 
+**  **Video Penjelasan**
+
+
+
+https://github.com/user-attachments/assets/87d632d1-34b3-48bf-b92b-20bebded0954
+
+
+
 Thank You
